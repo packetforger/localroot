@@ -19,6 +19,10 @@ scripts for automated exploitation in a somewhat-blind fashion.
 Exploits Implemented:
 ======
 
-* Linux PERF_EVENTS 
+* CVE-2013-2094 - Linux 2.6.37 -> 3.8.8 PERF_EVENTS local root - CVE-2013-2094.sh
+* CVE-2009-2698 - Linux < 2.6.19 udp_sendmsg() local root - CVE-2009-2698.sh
+* CVE-2009-2908 - Linux 2.6.19 -> 2.6.31.1 eCryptfs local root - CVE-2009-2908.sh
+* CVE-2009-2692 - Linux 2.X sendpage() local root - CVE-2009-2692.sh
+
 
 Bitcoins: 1MJ6KnLdXm82UjdDuvgjxDhngLjBMJfamV
