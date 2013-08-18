@@ -17,8 +17,8 @@ the scripts together, filling in the blanks, and providing some wrapper
 scripts for automated exploitation in a somewhat-blind fashion.
 
 Exploits Implemented:
-=========
+======
 
-
+* Linux PERF_EVENTS 
 
 Bitcoins: 1MJ6KnLdXm82UjdDuvgjxDhngLjBMJfamV
