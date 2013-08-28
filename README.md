@@ -23,6 +23,7 @@ Exploits Implemented:
 * CVE-2009-2698 - Linux < 2.6.19 udp_sendmsg() local root - CVE-2009-2698.sh
 * CVE-2009-2908 - Linux 2.6.19 -> 2.6.31.1 eCryptfs local root - CVE-2009-2908.sh
 * CVE-2009-2692 - Linux 2.X sendpage() local root - CVE-2009-2692.sh
+* CVE-2010-3856 - Glibc <= 2.12.x LD_AUDIT libmemusage.so local root exploit - CVE-2010-3856.sh
 
 
 Bitcoins: 1MJ6KnLdXm82UjdDuvgjxDhngLjBMJfamV
